@@ -1,9 +1,0 @@
-{
-  "name": "mcq-exam-portal",
-  "version": "1.0.0",
-  "description": "MCQ Exam Portal with an admin dashboard for managing questions, backed by Netlify Blobs.",
-  "private": true,
-  "dependencies": {
-    "@netlify/blobs": "^10.7.9"
-  }
-}
